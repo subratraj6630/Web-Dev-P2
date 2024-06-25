@@ -19,4 +19,4 @@ CHALLENGES
 2.  Responsive Design Complexity:
 •	Creating a truly responsive design that looks and functions seamlessly across an array of devices with different screen sizes and orientations can be challenging.
 5.  Complex Styling Requirements:
-•	Achieving intricate visual styles or transitions as per design specifications might be challenging, especially when trying to maintain performance and compatibility
+•	Achieving intricate visual styles or transitions as per design specifications might be challenging, especially when trying to maintain performance and compatibility.
